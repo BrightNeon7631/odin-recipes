@@ -24,7 +24,9 @@ I started and finished this project in December 2021.
 
 ## Links
 
-[Live Demo]
+[Live Demo](https://brightneon7631.github.io/odin-recipes/)
+
+[My Other Projects](https://brightneon7631.github.io/odin-scrimba-projects/)
 
 ## Screenshots
 
